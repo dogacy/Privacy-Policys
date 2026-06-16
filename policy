@@ -1,0 +1,79 @@
+STARDUST HARBOR
+Privacy Policy
+Last updated: 13 June 2026
+
+In short: Stardust Harbor does not collect, transmit, or sell any personal data. Everything — your profile, password, and game progress — is stored only on your own device. There are no servers, no accounts in the cloud, no analytics, and no advertising trackers.
+1. Who we are
+This Privacy Policy applies to the mobile game Stardust Harbor — Merge & Mystery ("the Game", "we", "us"), published by Vainsteel Studios. For any questions, contact us at vainsteelstudios@gmail.com.
+
+2. What data we collect
+We collect no personal data. The Game does not ask for your real name, email, phone number, location, contacts, photos, or device identifiers.
+
+The only information the Game creates is stored locally on your device and never leaves it:
+
+A username and a password hash you choose to create an in-game profile (optional — you can also play as a guest).
+Your game progress: level, coins, items, customization, story progress, daily streaks, and battle-pass status.
+The password is stored only as a one-way salted hash and is used solely as a local "save slot" lock. It is not real account security — please do not reuse a password from any important account.
+
+3. How the data is stored
+All of the above is kept in your device's local storage (localStorage). It is not uploaded to any server, shared with us, or shared with third parties. If you delete the app, this data is removed by your operating system.
+
+4. Data sharing & third parties
+We do not share, sell, or transfer any data to third parties. The Game contains no advertising SDKs, no analytics SDKs, and no third-party trackers. It does not make network requests to send your information anywhere.
+
+The Game loads a web font from Google Fonts for its visual style. If you'd prefer no external requests at all, the fonts can be bundled — but in the current build this is the only outbound request, and it transmits no game or personal data.
+
+5. In-app purchases
+The in-game "Orbit Pass Premium" and other upgrades are unlocked using virtual coins earned by playing. This build contains no real-money purchases. If real-money purchases are added in a future version, this policy will be updated and the store listing will declare them.
+
+6. Children's privacy
+The Game is suitable for all ages and does not knowingly collect any data from anyone, including children. Because no data is collected or transmitted, there is no personal information of a child (or any user) for us to access.
+
+7. Your rights
+Since we hold no data about you on any server, there is nothing for us to access, export, or delete. You are in full control: clearing the app's data or uninstalling the Game removes all locally stored information.
+
+8. Changes to this policy
+If this policy changes, the "Last updated" date above will change and the new version will be posted at this same URL.
+
+9. Contact
+Questions about this policy? Email vainsteelstudios@gmail.com.
+
+Türkçe
+
+Kısaca: Stardust Harbor hiçbir kişisel veri toplamaz, göndermez veya satmaz. Profilin, şifren ve oyun ilerlemen dahil her şey yalnızca kendi cihazında saklanır. Sunucu yok, bulut hesabı yok, analitik yok, reklam takibi yok.
+1. Kim olduğumuz
+Bu Gizlilik Politikası, [ADIN / ŞİRKETİN] tarafından yayınlanan Stardust Harbor — Merge & Mystery ("Oyun") için geçerlidir. Sorularınız için: [E-POSTA@example.com].
+
+2. Hangi verileri topluyoruz
+Hiçbir kişisel veri toplamıyoruz. Oyun; gerçek adınızı, e-postanızı, telefon numaranızı, konumunuzu, kişilerinizi, fotoğraflarınızı veya cihaz kimliklerinizi istemez.
+
+Oyunun oluşturduğu tek bilgi cihazınızda yerel olarak saklanır ve cihazdan çıkmaz:
+
+Profil oluşturmak için seçtiğiniz bir kullanıcı adı ve şifre özeti (isteğe bağlı — misafir olarak da oynayabilirsiniz).
+Oyun ilerlemeniz: seviye, coin, eşyalar, özelleştirmeler, hikaye ilerlemesi, günlük seriler ve battle-pass durumu.
+Şifre yalnızca tek yönlü, tuzlanmış bir özet olarak saklanır ve sadece yerel bir "kayıt kilidi" olarak kullanılır. Bu gerçek bir hesap güvenliği değildir — lütfen önemli bir hesabınızın şifresini kullanmayın.
+
+3. Verilerin saklanması
+Yukarıdakilerin tümü cihazınızın yerel deposunda (localStorage) tutulur. Hiçbir sunucuya yüklenmez, bizimle veya üçüncü taraflarla paylaşılmaz. Uygulamayı silerseniz bu veriler işletim sisteminiz tarafından kaldırılır.
+
+4. Veri paylaşımı ve üçüncü taraflar
+Hiçbir veriyi üçüncü taraflarla paylaşmaz, satmaz veya aktarmayız. Oyun reklam SDK'sı, analitik SDK'sı veya üçüncü taraf izleyici içermez ve bilgilerinizi herhangi bir yere göndermek için ağ isteği yapmaz.
+
+Oyun, görsel stili için Google Fonts'tan bir yazı tipi yükler. Tamamen dışa istek olmamasını isterseniz yazı tipleri uygulamaya gömülebilir; mevcut sürümde tek dışa istek budur ve hiçbir oyun/kişisel veri iletmez.
+
+5. Uygulama içi satın almalar
+Oyun içindeki "Orbit Pass Premium" ve diğer yükseltmeler, oynayarak kazanılan sanal coin'lerle açılır. Bu sürümde gerçek parayla satın alma yoktur. İleride eklenirse bu politika güncellenecek ve mağaza sayfasında beyan edilecektir.
+
+6. Çocukların gizliliği
+Oyun her yaş için uygundur ve çocuklar dahil hiç kimseden bilerek veri toplamaz. Hiçbir veri toplanmadığı veya iletilmediği için erişebileceğimiz hiçbir kişisel bilgi yoktur.
+
+7. Haklarınız
+Sizinle ilgili herhangi bir sunucuda veri tutmadığımız için erişilecek, dışa aktarılacak veya silinecek bir şey yoktur. Kontrol tamamen sizde: uygulamanın verilerini temizlemek veya oyunu kaldırmak, yerel olarak saklanan tüm bilgileri siler.
+
+8. Politika değişiklikleri
+Bu politika değişirse yukarıdaki "Son güncelleme" tarihi değişecek ve yeni sürüm aynı adreste yayınlanacaktır.
+
+9. İletişim
+Bu politikayla ilgili sorular için: [E-POSTA@example.com].
+
+© 2026 Vainsteel Studios · Stardust Harbor — Merge & Mystery
