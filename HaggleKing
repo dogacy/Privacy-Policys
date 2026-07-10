@@ -1,0 +1,86 @@
+Privacy Policy Haggle King: Pawn Shop Empire
+
+1. The short version
+We do not run any servers. We do not ask you to create an account, and we never see your name, email address, or payment details. Everything you do in the game is saved on your own device.
+
+The game does show ads and offer in-app purchases. Those two features are operated by Google, and Google collects data through them. This policy explains exactly what.
+
+2. What we collect ourselves
+Nothing.
+
+The game is a self-contained offline application. It makes no network requests of its own, has no analytics or crash-reporting SDK, and transmits no data to us or to any server we control. We have no database of players.
+
+Your progress — cash, inventory, reputation, achievements, settings, purchase status — is written to your device's local browser storage under the key hk_save_v1. It stays on the device. We cannot read it.
+
+3. What third parties collect
+The game bundles software provided by Google. When you play, that software may collect data directly.
+
+3.1 Google AdMob (Google Mobile Ads SDK)
+The game shows two kinds of ads: rewarded ads you choose to watch for an in-game bonus, and interstitial ads shown between days. According to Google's own published disclosure, the Google Mobile Ads SDK automatically collects and shares the following, for advertising, analytics and fraud prevention:
+
+Data	Detail
+IP address	May be used to estimate the general location of the device
+User product interactions	App launches, taps, video views
+Diagnostic information	App and SDK performance, e.g. launch time, hang rate, energy usage
+Device and account identifiers	Android advertising ID (AAID), app set ID, and where applicable identifiers tied to accounts signed in on the device
+Google states that this data is encrypted in transit using TLS. We do not receive any of it. We only see aggregate, non-identifying revenue reports in the AdMob dashboard.
+
+Google's processing is governed by Google's Privacy Policy and by How Google uses information from sites or apps that use its services.
+
+Buying Remove Ads or the VIP Pass stops interstitial ads. It does not remove the ads SDK, and rewarded ads remain available if you choose to watch them.
+
+3.2 Google Play Billing
+In-app purchases are processed entirely by Google Play. The purchase sheet, your payment method, and your billing details never pass through the game. The app receives only the product ID and a purchase token from Google Play, so it can unlock what you bought and restore it later. We never see your card number, bank, or billing address. Refunds are handled by Google Play under Google's terms.
+
+3.3 Google Play In-App Review
+If you tap “Rate Us” in Settings, Google's In-App Review API opens a rating dialog. We never learn how you rated the game beyond the public, aggregate star rating on the store listing.
+
+3.4 Google User Messaging Platform (UMP)
+Used to show the consent form described in section 5. It stores your consent choice on your device.
+
+4. Permissions the app requests
+Permission	Why
+INTERNET	Required to load ads and reach Google Play Billing. The game itself works offline
+BILLING	In-app purchases
+POST_NOTIFICATIONS	A single local reminder, scheduled on your device, telling you that your shop's offline earnings are full. There is no push service; nothing leaves your device
+VIBRATE	Haptic feedback, which you can switch off in Settings
+AD_ID	Declared automatically by Google's ads SDK, so it can read the advertising ID
+We do not request location, camera, microphone, contacts, storage, or any other sensitive permission.
+
+5. Ads and your choices
+Everywhere: you can reset or delete your advertising ID at any time in Android Settings → Privacy → Ads (the exact path varies by manufacturer). Deleting it stops Google from using it to personalise ads across apps.
+
+EEA, UK and Switzerland: on first launch the game shows a Google-provided consent form asking whether Google may use your data to personalise ads. If you decline, you will still see ads, but they will be non-personalised. You can change your choice at any time from the Privacy options entry in the game's Settings.
+
+United States: state privacy laws may give you the right to opt out of the “sale” or “sharing” of personal information for targeted advertising. Google's ad-serving controls, plus the advertising-ID reset above, are the mechanisms available in this app.
+
+6. Children
+This game is not directed at children. It contains simulated commerce, in-app purchases, and third-party advertising, and it is intended for a general adult audience. We do not knowingly collect personal data from children. If you believe a child has used the app in a way that resulted in data being collected, contact us at {{vainsteelstudios@gmail.com
+}}.
+
+7. Retention and deletion
+Because we hold no data, there is nothing for us to retain or delete.
+
+Your game save: delete it yourself, instantly, via Settings → Reset Progress. Uninstalling the app also removes it.
+No account exists, so Google Play's account-deletion requirement does not apply. There is nothing to close.
+Ad data held by Google: managed under Google's privacy policy. Use My Activity and Google Ads Settings to review or delete it, and the advertising-ID reset in section 5.
+Purchase records: retained by Google Play as required by tax and consumer law. We cannot delete them.
+8. Data location and transfers
+We store no data anywhere. Google may process the data described in section 3 on servers outside your country, including in the United States, under the safeguards described in Google's privacy policy.
+
+9. Your rights
+Depending on where you live, you may have rights to access, correct, delete, port, or object to the processing of your personal data — under the GDPR (EU/EEA), the UK GDPR, Türkiye's KVKK (Law No. 6698), or US state privacy laws such as the CCPA/CPRA.
+
+Since we hold no personal data, we cannot fulfil an access or deletion request — we would have nothing to return. Requests concerning the data described in section 3 must be directed to Google, the controller for that processing. We will help you route a request if you email {{vainsteelstudios@gmail.com
+}}.
+
+You also have the right to complain to your local supervisory authority.
+
+10. Security
+Your game save is protected by Android's standard app sandbox: no other app can read it. Data collected by Google's SDKs is encrypted in transit with TLS, per Google's disclosure. No system is perfectly secure, but the app's attack surface is small because it holds nothing worth stealing.
+
+11. Changes to this policy
+If we change this policy we will update the effective date at the top and post the new version. Material changes will be noted in the app's release notes on Google Play.
+
+12. Contact
+vainsteelstudios@gmail.com
