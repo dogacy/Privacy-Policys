@@ -1,0 +1,63 @@
+Serenity Apartments is a single-player, offline cozy game. We built it to be a calm little space — and we treat your privacy the same way. We do not require an account, and your game progress stays on your own device.
+1
+Who we are
+Serenity Apartments (“Huzur Apartmanı”, the “Game”) is developed and published by Vainsteel Studios (“we”, “us”, “our”). This Privacy Policy explains what information is handled when you play the Game on Android, and your choices about it.
+
+If you have any questions, contact us at vainsteelstudios@gmail.com.
+
+2
+The short version
+We do not ask you to create an account or sign in.
+Your saved game (neighbors, decor, progress) is stored only on your device.
+We do not run our own servers that collect your personal data.
+Third-party services we use — Google AdMob (optional rewarded ads) and Google Play Billing (in-app purchases) — may process limited data as described below.
+3
+Information handled in the Game
+Data stored on your device
+Your progress — the neighbors you place, decorations, unlocked stories, settings, and gold — is saved locally on your device (using local storage / Capacitor Preferences). We cannot read this data; it never leaves your device unless your device's own backup settings (e.g. Google Android Backup) copy it. You can erase it any time by clearing the app's data or uninstalling the Game.
+
+Advertising (Google AdMob)
+The Game offers optional, reward-only ads (you choose to watch one to earn a bonus). Ads are served by Google AdMob. To show ads, AdMob may collect and process information such as your advertising identifier (Advertising ID), device information, general (coarse) location derived from IP address, and ad-interaction data. AdMob uses this to serve and measure ads and to limit repetitive ads.
+
+You can reset or delete your Advertising ID, or opt out of ad personalization, in your Android settings under Settings → Privacy → Ads. Learn more in Google's Privacy Policy and how Google uses information from apps that use its services.
+
+In-app purchases (Google Play Billing)
+The Game offers optional in-app purchases (for example, gold packs and a supporter pack). Purchases are processed by Google Play Billing. We do not receive or store your payment card details — Google handles the transaction. We only receive confirmation of whether a purchase succeeded so we can unlock the item.
+
+4
+How information is used
+To save and restore your game progress on your device.
+To show optional rewarded ads and keep them relevant and non-repetitive (via AdMob).
+To process and deliver in-app purchases (via Google Play Billing).
+We do not sell your personal information.
+
+5
+Sharing
+We do not share personal data with third parties except through the service providers that make the Game work — Google AdMob and Google Play Billing — each acting under Google's own privacy terms. We may also disclose information if required by law, or to protect the rights, safety, or property of our users or ourselves.
+
+6
+Children's privacy
+The Game is intended for a general audience and is not directed at children under 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with information, please contact us and we will address it.
+
+Developer note (remove before publishing): if you choose to target families/children in Play Console, you must configure AdMob for child-directed treatment and review Google Play's Families policy — adjust this section accordingly.
+
+7
+Your rights & choices
+Depending on where you live (e.g. under the GDPR in the EU/UK, or the CCPA in California), you may have the right to:
+
+Reset or delete your Advertising ID and opt out of personalized ads in your device settings.
+Clear all local game data by clearing the app's storage or uninstalling the Game.
+Request information about, or deletion of, any data a third-party provider (Google) holds — via that provider.
+Because we do not maintain accounts or our own user database, most data control happens directly on your device or through Google.
+
+8
+Data retention & security
+Local game data remains on your device until you clear it. Data processed by Google (AdMob, Play Billing) is retained according to Google's policies. We take reasonable measures to keep the Game safe, but no method of electronic storage is 100% secure.
+
+9
+Changes to this policy
+We may update this Privacy Policy from time to time. When we do, we'll change the “Last updated” date above. Significant changes may also be noted in the Game or its store listing.
+
+10
+Contact
+Questions about this policy? Reach us at vainsteelstudios@gmail.com.
