@@ -1,0 +1,170 @@
+# Privacy Policy for Shred Office
+
+**Last updated: August 12, 2026**
+
+Vainsteel Studios ("we", "us", "our") develops and publishes the mobile game **Shred Office** (the "App", package name `com.vainsteel.shredoffice`). This Privacy Policy explains what information the App handles, how it is used, and the choices available to you.
+
+By downloading or using the App, you agree to this Privacy Policy. If you do not agree, please do not use the App.
+
+---
+
+## 1. Summary
+
+- We do **not** operate accounts, servers, or user databases. We do not ask for your name, email address, phone number, or location.
+- Your game progress is stored **only on your device**.
+- The App shows advertising through **Google AdMob** and offers optional in-app purchases through **Google Play Billing**. These Google services may collect data as described in their own privacy policies.
+- You can withdraw advertising consent, reset your progress, or uninstall the App at any time.
+
+---
+
+## 2. Information We Collect Directly
+
+**None.**
+
+Vainsteel Studios does not collect, transmit, sell, or store any personal information from users of the App. The App has no login, no registration, no user profiles, no cloud saves, no analytics SDK, and no social features.
+
+---
+
+## 3. Information Stored on Your Device
+
+The App saves your game data locally on your device so that your progress is not lost when you close the App. This data includes:
+
+- In-game currency, shredded document count, rank, and upgrade levels
+- Game statistics (combos, inspections, missions, collectibles found)
+- Settings (language, sound, vibration, visual effects)
+- Purchase status flags (for example, whether the Supporter Pack or Ad-Free Pack has been unlocked)
+- A timestamp used to calculate offline earnings
+
+This data stays on your device. It is not uploaded to us or to any third party. You can erase it at any time by using **Menu → Settings → Reset Progress**, by clearing the App's storage in your device settings, or by uninstalling the App.
+
+---
+
+## 4. Advertising (Google AdMob)
+
+The App displays advertisements provided by **Google AdMob**, including banner ads, occasional interstitial ads, and optional rewarded ads that you choose to watch in exchange for in-game bonuses.
+
+To serve ads, Google and its advertising partners may collect and process information such as:
+
+- Your device's advertising identifier (Android Advertising ID)
+- Device information (model, operating system version, language, coarse region)
+- IP address
+- Ad interaction data (impressions, clicks)
+
+This information is processed by Google, not by us. We do not receive personally identifiable information from advertising.
+
+**Consent:** Where required by law (for example, in the European Economic Area, the United Kingdom, and Switzerland), the App displays a consent form through Google's User Messaging Platform (UMP) before personalized ads are shown. You can change or withdraw your choice at any time through the privacy options available in the App or your device settings.
+
+**Removing ads:** Purchasing the Ad-Free Pack or the Supporter Pack permanently disables banner and interstitial advertising in the App. Rewarded ads remain available as an optional choice.
+
+For more information, see:
+- Google Privacy Policy: https://policies.google.com/privacy
+- How Google uses information from sites or apps that use its services: https://policies.google.com/technologies/partner-sites
+- Google AdMob: https://support.google.com/admob/answer/6128543
+
+You can reset or delete your Android Advertising ID at any time in **Settings → Google → Ads** on your device.
+
+---
+
+## 5. In-App Purchases (Google Play Billing)
+
+The App offers optional one-time purchases (for example, the Supporter Pack, the Ad-Free Pack, and a currency pack). All purchases are processed by **Google Play Billing**.
+
+We never see or receive your payment card details, billing address, or Google account credentials. Google provides us only with anonymous purchase confirmation so that the App can unlock the purchased content on your device.
+
+Google Play Terms of Service: https://play.google.com/intl/en/about/play-terms/
+Google Play refund policy: https://support.google.com/googleplay/answer/2479637
+
+---
+
+## 6. Permissions
+
+The App requests the following Android permissions:
+
+| Permission | Why it is used |
+|---|---|
+| `INTERNET` / `ACCESS_NETWORK_STATE` | Required to load advertisements and process purchases |
+| `com.google.android.gms.permission.AD_ID` | Required by Google Play for advertising identifier access |
+| `VIBRATE` | Haptic feedback during gameplay (can be turned off in Settings) |
+| `com.android.vending.BILLING` | Required for in-app purchases |
+
+The App does not request access to your camera, microphone, contacts, photos, files, precise location, or any other sensitive data.
+
+---
+
+## 7. Children's Privacy
+
+The App is a workplace satire game intended for a general audience and is **not directed to children under 13** (or under the applicable age of digital consent in your country). We do not knowingly collect personal information from children.
+
+Where required, advertising in the App is configured according to Google Play's Families policy requirements and applicable law. If you believe a child has provided personal information through the App, please contact us at the address below and we will take appropriate action.
+
+---
+
+## 8. Data Retention and Deletion
+
+Because we do not collect or store data on our servers, there is nothing for us to retain or delete on our side.
+
+Data stored on your device is retained until you delete it. To delete all App data:
+
+1. Open the App and choose **Menu → Settings → Reset Progress**, or
+2. Go to your device's **Settings → Apps → Shred Office → Storage → Clear data**, or
+3. Uninstall the App.
+
+Purchase records are retained by Google Play under Google's own policies and are restorable through your Google account.
+
+---
+
+## 9. Your Rights
+
+Depending on where you live, you may have rights under laws such as the EU/UK General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA/CPRA), or Türkiye's Personal Data Protection Law (KVKK), including the rights to access, correct, delete, or restrict processing of your personal data, and to object to processing or withdraw consent.
+
+Since Vainsteel Studios does not collect or hold your personal data, most requests relating to advertising data should be directed to Google as the processing party. You may also:
+
+- Withdraw or change advertising consent through the App's consent options
+- Reset or delete your Android Advertising ID in your device settings
+- Contact us using the details below, and we will assist you where we are able
+
+We do not sell or share personal information for cross-context behavioral advertising, and we do not receive any monetary consideration in exchange for personal information.
+
+---
+
+## 10. Data Security
+
+Game data is stored in the App's private storage area on your device and is protected by your device's operating system security. Advertising and payment traffic is handled by Google over encrypted connections. No method of electronic storage or transmission is completely secure, and we cannot guarantee absolute security.
+
+---
+
+## 11. International Users
+
+The App is available worldwide. Advertising and payment services are operated by Google, which may process data in countries other than your own, including the United States. Google applies appropriate safeguards for such transfers, as described in Google's Privacy Policy.
+
+---
+
+## 12. Third-Party Services
+
+The App uses the following third-party services, each governed by its own privacy policy:
+
+- **Google AdMob** (advertising) — https://policies.google.com/privacy
+- **Google User Messaging Platform** (consent management) — https://policies.google.com/privacy
+- **Google Play Billing** (in-app purchases) — https://policies.google.com/privacy
+- **Google Play Services** — https://policies.google.com/privacy
+
+---
+
+## 13. Changes to This Policy
+
+We may update this Privacy Policy from time to time, for example to reflect changes in the App or in applicable law. When we do, we will revise the "Last updated" date at the top of this page. Significant changes may also be announced in the App or in the store listing. We encourage you to review this page periodically.
+
+---
+
+## 14. Contact Us
+
+If you have any questions, requests, or complaints regarding this Privacy Policy or your data, please contact us:
+
+**Vainsteel Studios**
+Email: **vainsteelstudios@gmail.com**
+
+We aim to respond to all inquiries within 30 days.
+
+---
+
+*This Privacy Policy applies to Shred Office (`com.vainsteel.shredoffice`) published by Vainsteel Studios.*
