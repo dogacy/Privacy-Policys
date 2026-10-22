@@ -1,6 +1,6 @@
 Privacy Policy
-Iznik: Color Sort · Last updated: [DATE — 14 July 2026]
-This Privacy Policy explains how Iznik: Color Sort Tile Puzzle, developed by Vainsteel Studios, handles information when you use the game. We built the App to respect your privacy: it works fully offline and we do not collect or sell your personal data.
+Iznik: Color Sort Tile Puzzle · Last updated: 22 October 2026
+This Privacy Policy explains how Iznik: Color Sort Tile Puzzle (com.vainsteel.iznik, available on Google Play and the Apple App Store), developed by Vainsteel Studios ("we", "us"), handles information when you use the game (the "App"). We built the App to respect your privacy: it works fully offline and we do not collect or sell your personal data.
 
 1. Information We Collect
 We do not collect any personal data ourselves. The App has no account system and no login. Your game progress — levels, stars, coins, streaks, unlocked artworks, themes and settings — is stored only on your device and is never transmitted to us.
@@ -8,27 +8,28 @@ We do not collect any personal data ourselves. The App has no account system and
 2. Information Processed by Third Parties
 To keep the App free, we use the following third-party services, which may process limited data under their own privacy policies:
 
-Google AdMob (advertising). To show ads, AdMob may access your device's advertising identifier (AAID) and approximate, non-precise location, and may use this data for ad delivery and measurement. See Google's policy: policies.google.com/privacy. If you purchase "Remove Ads" or the Supporter Pack, interstitial ads are disabled; optional rewarded videos remain available only if you choose to watch them.
-Google Play Billing (in-app purchases). Payments are handled entirely by Google Play. We never see or store your payment card details. See Google's policy.
-3. Local Notifications
-With your permission, the App may schedule local reminders (for example, your daily puzzle) directly on your device. These are generated on-device, are not sent through any server, and can be turned off any time in the App's settings or your device settings.
+Google AdMob (advertising). To show ads, AdMob may access your device's advertising identifier (AAID on Android, IDFA on iOS) and approximate, non-precise location, and may use this data for ad delivery and measurement. See Google's policy: policies.google.com/privacy. If you purchase "Remove Ads" or the Supporter Pack, banner and interstitial ads are disabled; optional rewarded videos remain available only if you choose to watch them.
+Google Play Billing / Apple App Store (StoreKit) (in-app purchases). If you buy an item, the respective store processes your purchase and payment. We never receive or store your payment details. See Google and Apple privacy policies.
+3. App Tracking Transparency (iOS)
+On iOS devices, before your advertising identifier (IDFA) can be used for personalized advertising, the App asks for your permission through Apple's App Tracking Transparency prompt. You may decline; the App will continue to work and may still show non-personalized ads. You can change this choice any time in Settings → Privacy & Security → Tracking.
 
-4. Device Permissions
-The App requests only what is needed to function: network access (to load ads) and, optionally, permission to display notifications. It does not request access to your contacts, photos, microphone, camera or precise location.
+4. Local Notifications
+The App may send you optional on-device reminders (e.g. a daily puzzle). These are generated locally on your device and are not used to collect data. You can disable them in the App's settings or your system settings.
 
-5. Children's Privacy
-The App is suitable for general audiences and is not directed at children under 13 (or the equivalent minimum age in your country). We do not knowingly collect personal information from children. Advertising is configured to request non-personalized/child-appropriate treatment where required. If you believe a child has provided personal data through a third-party service, please contact us.
+5. Device Permissions
+The App may request permission to show notifications. It does not access your contacts, photos, microphone, precise location, or files. Internet access is used only to load ads.
 
-6. Your Rights
-Because progress is stored only on your device, you can erase all App data at any time by clearing the App's storage or uninstalling it. Depending on your region (e.g. GDPR in the EEA/UK, CCPA in California), you may have rights regarding data processed by the third parties above; please refer to their policies to exercise those rights. Advertising choices can be managed via your device's "Ads" settings (reset or opt out of your advertising ID).
+6. Children's Privacy
+The App is intended for a general audience aged 13 and older and is not directed at children under 13 (or the equivalent minimum age in your country). We do not knowingly collect personal information from children. If you believe a child has provided personal data through a third-party service, please contact us and we will address it.
 
-7. Data Security & Retention
+7. Your Rights & Choices
+Because progress is stored only on your device, you can erase all App data at any time by clearing the App's storage or uninstalling it. Depending on your region (e.g. GDPR in the EEA/UK, CCPA/CPRA in California), you may have rights regarding data processed by the third parties above; please refer to their policies. You can reset or limit your advertising identifier via your device settings (Android: Settings → Google → Ads; iOS: Settings → Privacy & Security → Tracking / Apple Advertising).
+
+8. Data Security & Retention
 We do not hold your personal data on our servers, so there is nothing for us to retain or breach. On-device data remains until you delete it. Third-party services retain data according to their own policies.
 
-8. Changes to This Policy
+9. Changes to This Policy
 We may update this Policy as the App evolves. Material changes will be reflected here with a new "Last updated" date. Continued use of the App after changes means you accept the updated Policy.
 
-9. Contact
-Questions about this Policy? Contact us at:
-[vainsteelstudios@gmail.com]
-Vainsteel Studios.
+10. Contact
+Questions about this Policy? Contact Vainsteel Studios at vainsteelstudios@gmail.com.
